@@ -1,0 +1,39 @@
+#Best practice to name the home page of your website index. This is industry standard #2 ways to add in the boiler plate #html 5
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- <head> #reserved for things that are not important for humans - linking CSS - tab in the #head and #body -->
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Upskillers Graphs</title> #name of tab in web browser
+</head>
+
+<body> #reserved for content - links and vidoes
+    <!-- Banner Section -->
+    <div>
+        <h1>Howdy everyone, welcome to the website for graphing.. </h1> #add h1 and then tab - stands for heading - goes up to h6. h1 is the most important
+        <img src="" alt="">
+        <p>We are going to show the world how cool our graphs are</p>
+        <button>Subcribe for lots of graphs</button>
+    </div>
+    <!-- Graph Section -->
+    <div>
+        <span>Graphs </span>
+        <p>Graphs made from plotly</p>
+        <form action="">
+            <input type="text" />
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+
+</html>
+
+<Upskillers>
+    <hello_html>
+        <!-- <index class="html"></index> -->
+        <!-- \Users\hdumesich\Desktop\Upskillers\hello-world\index.html -->
+        <!-- C:\Users\hdumesich\Desktop\Upskillers\hello-world\index.html - full path located on my computer -->
+        <!-- https - stands for hyper text transfer protect secure  -->
+        <!-- src = <source> -->
